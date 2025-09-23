@@ -57,10 +57,7 @@ A mysterious, atmospheric game project blending art, music, and gameplay.
 
 ## 🚀 Top Repositories
 
-- [Project-to-the-Veil](https://github.com/LunarLight-cn/Project-to-the-Veil)
 - [Project-to-the-Veil-Showcase](https://github.com/LunarLight-cn/Project-to-the-Veil-Showcase)
-- [AUT461-Miniproject-2025](https://github.com/tangnatta/AUT461-Miniproject-2025)
-- [AUT461-FIFA-2025](https://github.com/tangnatta/AUT461-FIFA-2025)
 
 
 
