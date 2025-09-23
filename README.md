@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## 🌓 About Me
 
-- 🎓 **University Student** | Indie game developer (part-time)
+- 🎓 **University Student** | Indie game developer
 - 🛠️ **Unity Specialist**
 - 🎶 **Shoegaze addict**
 - 🕹️ Always working on something creative!
