@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center" style="color:#b366ff;">
   👾 LunarLight-cn 👾
 </h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Game%20Dev-%E2%98%86-purple?style=for-the-badge&logo=unity" />
-  <img src="https://img.shields.io/badge/Shoegaze%20Addict-%F0%9F%8E%B6-black?style=for-the-badge" />
-</p>
 
 
 
@@ -28,7 +24,6 @@ Here are some ideas to get you started:
 
 - 🎓 **University Student** | Indie game developer
 - 🛠️ **Unity Specialist**
-- 🎶 **Shoegaze addict**
 - 🕹️ Always working on something creative!
 
 
@@ -52,12 +47,6 @@ A mysterious, atmospheric game project blending art, music, and gameplay.
 
 - Unity
 - Game Design
-
-
-
-## 🚀 Top Repositories
-
-- [Project-to-the-Veil-Showcase](https://github.com/LunarLight-cn/Project-to-the-Veil-Showcase)
 
 
 
