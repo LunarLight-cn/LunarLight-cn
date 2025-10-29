@@ -31,19 +31,19 @@ Here are some ideas to get you started:
 ## 🌑 Featured Project
 
 **Project to the Veil**  
-> _Currently in development (private)_  
+> _Currently in development (private)_ 
+
 A mysterious, atmospheric game project blending art, music, and gameplay.
 
+**Project B**
+> _Currently in development (private)_
+
+A 2D Stylish Action Platformer that merges the precise, atmospheric exploration and tight platforming of Hollow Knight with the deep, Stylish based combo mechanics and high-octane spectacle of the Devil May Cry series.
 
 
-## 🎨 Studio
-
-- **ToIndieStudio**  
-  [🌐 Notion Page](https://www.notion.so/ToIndie-Studio-2619c2d31f4580c280edd8e7a74befb8)
 
 
-
-## 💻 Top Skills
+## 💻  Skills
 
 - Unity
 - Game Design
